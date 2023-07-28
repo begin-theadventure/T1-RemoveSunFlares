@@ -4,18 +4,21 @@
 `env_sun.pcf`, `env_sun_haven.pcf` and `env_sun_red_dwarf.pcf` files changed to empty.
 
 Credit: [Remove Sun Flares](https://noskill.gitbook.io/titanfall2/modding/misc/remove-sun-flares).
-
 <p align="center"><img src="https://github.com/begin-theadventure/N-RemoveSunFlares/assets/99835765/be617b34-b38b-48f0-97da-71622fe86354" align="center" width="48%"></p>
-
 <p align="center">
-  <img src="https://github.com/begin-theadventure/N-RemoveSunFlares/assets/99835765/233885ad-f82c-474b-8167-3f59693ddf7f" width="45%">
-&nbsp;
-  <img src="https://github.com/begin-theadventure/N-RemoveSunFlares/assets/99835765/e4c34aa0-28fa-4c15-be75-e5b002437312" width="45%">
+  <img src="https://github.com/begin-theadventure/T1-RemoveSunFlares/assets/99835765/c01e6a62-328b-4ba2-b967-c64976500063" width="45%">
+&nbsp;&nbsp;
+  <img src="https://github.com/begin-theadventure/T1-RemoveSunFlares/assets/99835765/404c4506-1790-43d4-8beb-65446f844d43" width="45%">
 </p>
 <p align="center">
   <img src="https://github.com/begin-theadventure/N-RemoveSunFlares/assets/99835765/c9b24f49-036b-41ad-a1c1-d447a6648c8a" width="45%">
-&nbsp;
+&nbsp;&nbsp;
   <img src="https://github.com/begin-theadventure/N-RemoveSunFlares/assets/99835765/5657a527-65ea-4f71-8998-88f4312ce2dc" width="45%">
+</p>
+<p align="center">
+  <img src="https://github.com/begin-theadventure/N-RemoveSunFlares/assets/99835765/233885ad-f82c-474b-8167-3f59693ddf7f" width="45%">
+&nbsp;&nbsp;
+  <img src="https://github.com/begin-theadventure/N-RemoveSunFlares/assets/99835765/e4c34aa0-28fa-4c15-be75-e5b002437312" width="45%">
 </p>
 
 ## <p align="center">How to install</p>
