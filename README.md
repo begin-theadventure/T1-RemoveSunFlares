@@ -29,7 +29,7 @@ Go to [Releases](https://github.com/begin-theadventure/T1-RemoveSunFlares/releas
 
 Open VPK: Titanfall1/vpk/`englishclient_mp_common.bsp.pak000_dir.vpk`.
 
-Create empty text files with earlier mentioned names such as `env_sun.pcf`.
+Create [empty text files](https://github.com/begin-theadventure/T1-RemoveSunFlares/tree/main/b-ta.RemoveSunFlares/particles).
 
 Patch VPK ->  particles/`name`; Select File (empty file with the same `name`) -> Patch -> Choose folder other than `vpk` -> Repeat until the last third file.
 
