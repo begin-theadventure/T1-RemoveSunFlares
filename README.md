@@ -25,12 +25,14 @@ Go to [Releases](https://github.com/begin-theadventure/T1-RemoveSunFlares/releas
 ## <p align="center">Tutorial</p>
 <p align="center">(Only if you want to do it yourself)</p>
 
+Create [empty text files](https://github.com/begin-theadventure/T1-RemoveSunFlares/tree/main/b-ta.RemoveSunFlares/particles).
+
 [HarmonyVPKTool](https://github.com/harmonytf/HarmonyVPKTool):
 
 Open VPK: Titanfall1/vpk/`englishclient_mp_common.bsp.pak000_dir.vpk`.
 
-Create [empty text files](https://github.com/begin-theadventure/T1-RemoveSunFlares/tree/main/b-ta.RemoveSunFlares/particles).
-
 Patch VPK ->  particles/`name`; Select File (empty file with the same `name`) -> Patch -> Choose folder other than `vpk` -> Repeat until the last third file.
 
-Remove `client_mp_common.bsp.pak000_999.vpk` as it's not needed, and now you have a patched `englishclient_mp_common.bsp.pak000_dir.vpk` with no sun flares!
+And now you have a patched `englishclient_mp_common.bsp.pak000_dir.vpk` with no sun flares!
+
+`client_mp_common.bsp.pak000_999.vpk` can be removed as it's not needed.
