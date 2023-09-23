@@ -23,7 +23,7 @@ Credit: [Remove Sun Flares](https://noskill.gitbook.io/titanfall2/modding/misc/r
 
 ## <p align="center">How to install</p>
 
-Go to [Releases](https://github.com/begin-theadventure/T1-RemoveSunFlares/releases), download the `englishclient_mp_common.bsp.pak000_dir.vpk` file, go to Titanfall/vpk, make a backup of the original file and replace it with the patched one.
+Go to [Releases](https://github.com/begin-theadventure/T1-RemoveSunFlares/releases), download the `englishclient_mp_common.bsp.pak000_dir.vpk` file, go to Titanfall/vpk, make a backup of the original file and move the patched one here.
 
 ## <p align="center">Tutorial</p>
 <p align="center">(Only if you want to do it yourself)</p>
